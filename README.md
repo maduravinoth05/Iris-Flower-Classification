@@ -1,5 +1,5 @@
 # 🌸 Iris Flower Classification using Artificial Intelligence
-CodTech IT Solutions — Python Programming Internship  
+CodTech IT Solutions — Artificial intelligence Internship    
 Task name : Iris Flower Classification  
 Intern : V.VINOTH  
 Intern ID : CITS7154  
